@@ -1,4 +1,3 @@
-
 body {
     font-size: 33px;
     text-align: center;
@@ -25,7 +24,7 @@ body {
 .ozgur_menu {
     width: 99%;
     height: 50px;
-    background-color:turquoise;
+    background-color: turquoise;
     margin: 4px;
 
 }
@@ -55,8 +54,7 @@ body {
 .ozgur_footer {
     width: 99%;
     height: 50px;
-background-color: cadetblue;
+    background-color: cadetblue;
     margin: 4px;
     margin-top: 10px;
 }
-
