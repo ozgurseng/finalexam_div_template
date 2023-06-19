@@ -1,0 +1,62 @@
+
+body {
+    font-size: 33px;
+    text-align: center;
+    color: white;
+    font-style: italic;
+
+}
+
+.ozgur_maindiv {
+    height: 1000px;
+    width: 1100px;
+    margin: auto;
+}
+
+.ozgur_header {
+    width: 99%;
+    height: 150px;
+    background-color: cadetblue;
+    margin: 4px;
+    top: 50%;
+
+}
+
+.ozgur_menu {
+    width: 99%;
+    height: 50px;
+    background-color:turquoise;
+    margin: 4px;
+
+}
+
+.ozgur_contentarea {
+    width: 99%;
+    height: 586px;
+    margin: 4px;
+}
+
+.ozgur_kategori {
+    width: 40%;
+    height: 580px;
+    background-color: turquoise;
+    float: left;
+
+}
+
+.ozgur_icerik {
+    width: 641px;
+    height: 580px;
+    background-color: cadetblue;
+    float: left;
+    margin-left: 11px;
+}
+
+.ozgur_footer {
+    width: 99%;
+    height: 50px;
+background-color: cadetblue;
+    margin: 4px;
+    margin-top: 10px;
+}
+
